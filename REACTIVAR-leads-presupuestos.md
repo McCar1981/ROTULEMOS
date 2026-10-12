@@ -113,6 +113,19 @@ Leer la conversación que viene **dentro del propio correo del lead** y extraer:
 
 ---
 
+## 5B. Qué NO se auto-presupuesta — **gate crítico**
+
+No todo correo de "presupuesto" es un producto de catálogo. **Si el encargo no es configurable en la web, el sistema NO debe auto-presupuestar: lo marca para revisión humana** y, como mucho, manda un acuse ("hemos recibido su encargo; un especialista le prepara un presupuesto a medida"). Auto-cotizar el producto de catálogo más parecido es **peor que no contestar**: hace quedar mal ante un buen cliente.
+
+Señales de "a mano, no auto" (si aparece alguna → humano):
+- **Iluminación / LED / retroiluminado**, letras **corpóreas / recortadas / opacas**, **banderola luminosa**.
+- **Anclajes, estructura, instalación**, fachada **protegida / normativa urbanística**.
+- Varias piezas que forman un **rótulo compuesto**, o acabados/materiales que no están en el configurador.
+
+**Caso real (no repetir el error):** despacho de abogados en Aranjuez (Juan Pablo González Rivas). Pidió un **rótulo de letras opacas retroiluminadas sobre soporte transparente + banderola luminosa**. El sistema le auto-cotizó **placas de metacrilato impreso CMYK** (catálogo) y **omitió la iluminación y la banderola** —lo primero que pedía—. Cliente de calidad, casi perdido por una respuesta automática que no leía su encargo. Esto es justo lo que el gate debe cortar.
+
+---
+
 ## 6. CTA directo al carrito
 
 Los correos llevan botones **"Pedir Standard/Rápido/Express"** que abren la web **directamente en el carrito ya configurado**. Mecánica real:
